@@ -1,0 +1,32 @@
+name: Validate published analysis
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.4'
+          use-public-rspm: true
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            deps::.
+            any::testthat
+      - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Recompute analysis and validate cached observations
+        run: Rscript scripts/replay_analysis.R --full
+      - name: Render the Quarto report
+        run: quarto render report.qmd
+      - uses: actions/upload-artifact@v7
+        with:
+          name: verified-report
+          path: |
+            report.html
+            output/tables/validation_checks.csv

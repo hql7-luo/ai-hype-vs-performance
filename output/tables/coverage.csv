@@ -1,0 +1,9 @@
+metric,count
+constituent_listings,503
+unique_issuers_selected,500
+issuers_with_text,498
+filings_discovered,3924
+panel_filings,3910
+revenue_analysis_rows,3289
+return_analysis_rows,3304
+incomplete_return_windows,498

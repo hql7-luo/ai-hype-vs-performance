@@ -1,0 +1,13 @@
+{
+  "tidyquant_retrieved_at_utc": "2026-10-27 03:44:50 UTC",
+  "tidyquant_n": 505,
+  "wikipedia_n": 503,
+  "both": 503,
+  "wikipedia_only": 0,
+  "ssga_only": 2,
+  "ssga_source": "https://www.ssga.com/us/en/institutional/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spy.xlsx",
+  "note": "A fresh SSGA/tidyquant request after the study's initial Wikipedia membership download; snapshots may differ in effective date.",
+  "resolution": "All 503 archived Wikipedia constituent tickers agree with fresh SSGA/tidyquant holdings after share-class punctuation normalization. The 505-row ETF holdings list additionally contains US-dollar cash and a Hologic contra position; neither is a current S&P 500 constituent. No change to selected membership is needed.",
+  "spglobal_hologic_deletion_source": "https://press.spglobal.com/2026-04-06-Caseys-General-Stores-Set-to-Join-S-P-500-DigitalOcean-Holdings-to-Join-S-P-MidCap-400-Broadstone-Net-Lease-to-Join-S-P-SmallCap-600",
+  "remaining_unresolved_differences": 0
+}

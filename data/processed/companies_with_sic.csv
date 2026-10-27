@@ -1,0 +1,501 @@
+ticker,company,cik,sec_cik,sic,industry
+ABT,Abbott Laboratories,0000001800,0000001800,2834,Manufacturing
+AMD,Advanced Micro Devices,0000002488,0000002488,3674,Manufacturing
+APD,Air Products,0000002969,0000002969,2810,Manufacturing
+SWKS,Skyworks Solutions,0000004127,0000004127,3674,Manufacturing
+HWM,Howmet Aerospace,0000004281,0000004281,3350,Manufacturing
+AEP,American Electric Power,0000004904,0000004904,4911,Transportation & utilities
+AXP,American Express,0000004962,0000004962,6199,"Finance, insurance & real estate"
+AFL,Aflac,0000004977,0000004977,6321,"Finance, insurance & real estate"
+AIG,American International Group,0000005272,0000005272,6331,"Finance, insurance & real estate"
+ADI,Analog Devices,0000006281,0000006281,3674,Manufacturing
+AMAT,Applied Materials,0000006951,0000006951,3674,Manufacturing
+ADM,Archer Daniels Midland,0000007084,0000007084,2070,Manufacturing
+ADP,Automatic Data Processing,0000008670,0000008670,7374,Services
+AVY,Avery Dennison,0000008818,0000008818,2670,Manufacturing
+BALL,Ball Corporation,0000009389,0000009389,3411,Manufacturing
+BAX,Baxter International,0000010456,0000010456,3841,Manufacturing
+BDX,Becton Dickinson,0000010795,0000010795,3841,Manufacturing
+WRB,W. R. Berkley Corporation,0000011544,0000011544,6331,"Finance, insurance & real estate"
+BA,Boeing,0000012927,0000012927,3721,Manufacturing
+BMY,Bristol Myers Squibb,0000014272,0000014272,2834,Manufacturing
+BF.B,Brown–Forman,0000014693,0000014693,2080,Manufacturing
+STZ,Constellation Brands,0000016918,0000016918,2080,Manufacturing
+CAT,Caterpillar Inc.,0000018230,0000018230,3531,Manufacturing
+JPM,JPMorgan Chase,0000019617,0000019617,6021,"Finance, insurance & real estate"
+CINF,Cincinnati Financial,0000020286,0000020286,6331,"Finance, insurance & real estate"
+CLX,Clorox,0000021076,0000021076,2842,Manufacturing
+KO,Coca-Cola Company (The),0000021344,0000021344,2080,Manufacturing
+CL,Colgate-Palmolive,0000021665,0000021665,2844,Manufacturing
+GLW,Corning Inc.,0000024741,0000024741,3357,Manufacturing
+CMI,Cummins,0000026172,0000026172,3510,Manufacturing
+TGT,Target Corporation,0000027419,0000027419,5331,Retail trade
+DAL,Delta Air Lines,0000027904,0000027904,4512,Transportation & utilities
+DG,Dollar General,0000029534,0000029534,5331,Retail trade
+DOV,Dover Corporation,0000029905,0000029905,3530,Manufacturing
+OMC,Omnicom Group,0000029989,0000029989,7311,Services
+ECL,Ecolab,0000031462,0000031462,2840,Manufacturing
+RVTY,Revvity,0000031791,0000031791,3826,Manufacturing
+EMR,Emerson Electric,0000032604,0000032604,3600,Manufacturing
+EFX,Equifax,0000033185,0000033185,7320,Services
+EQT,EQT Corporation,0000033213,0000033213,1311,Mining
+FRT,Federal Realty Investment Trust,0000034903,0000034903,6798,"Finance, insurance & real estate"
+FITB,Fifth Third Bancorp,0000035527,0000035527,6022,"Finance, insurance & real estate"
+USB,U.S. Bancorp,0000036104,0000036104,6021,"Finance, insurance & real estate"
+MTB,M&T Bank,0000036270,0000036270,6022,"Finance, insurance & real estate"
+F,Ford Motor Company,0000037996,0000037996,3711,Manufacturing
+BEN,Franklin Resources,0000038777,0000038777,6282,"Finance, insurance & real estate"
+GD,General Dynamics,0000040533,0000040533,3730,Manufacturing
+GE,GE Aerospace,0000040545,0000040545,3600,Manufacturing
+GIS,General Mills,0000040704,0000040704,2040,Manufacturing
+GPC,Genuine Parts Company,0000040987,0000040987,5013,Wholesale trade
+HAL,Halliburton,0000045012,0000045012,1389,Mining
+HAS,Hasbro,0000046080,0000046080,3944,Manufacturing
+HSY,Hershey Company (The),0000047111,0000047111,2060,Manufacturing
+HPQ,HP Inc.,0000047217,0000047217,3570,Manufacturing
+HRL,Hormel Foods,0000048465,0000048465,2011,Manufacturing
+HUBB,Hubbell Incorporated,0000048898,0000048898,3670,Manufacturing
+HUM,Humana,0000049071,0000049071,6324,"Finance, insurance & real estate"
+HBAN,Huntington Bancshares,0000049196,0000049196,6021,"Finance, insurance & real estate"
+ITW,Illinois Tool Works,0000049826,0000049826,3560,Manufacturing
+INTC,Intel,0000050863,0000050863,3674,Manufacturing
+IBM,IBM,0000051143,0000051143,3570,Manufacturing
+IFF,International Flavors & Fragrances,0000051253,0000051253,2860,Manufacturing
+IP,International Paper,0000051434,0000051434,2621,Manufacturing
+J,Jacobs Solutions,0000052988,0000052988,1600,Construction
+KMB,Kimberly-Clark,0000055785,0000055785,2670,Manufacturing
+KR,Kroger,0000056873,0000056873,5411,Retail trade
+LLY,Lilly (Eli),0000059478,0000059478,2834,Manufacturing
+L,Loews Corporation,0000060086,0000060086,6331,"Finance, insurance & real estate"
+LOW,Lowe's,0000060667,0000060667,5211,Retail trade
+MRSH,Marsh McLennan,0000062709,0000062709,6411,"Finance, insurance & real estate"
+MAS,Masco,0000062996,0000062996,3430,Manufacturing
+MKC,McCormick & Company,0000063754,0000063754,2090,Manufacturing
+MCD,McDonald's,0000063908,0000063908,5812,Retail trade
+SPGI,S&P Global,0000064040,0000064040,7320,Services
+CVS,CVS Health,0000064803,0000064803,5912,Retail trade
+ETR,Entergy,0000065984,0000065984,4911,Transportation & utilities
+MMM,3M,0000066740,0000066740,3841,Manufacturing
+MSI,Motorola Solutions,0000068505,0000068505,3663,Manufacturing
+BAC,Bank of America,0000070858,0000070858,6021,"Finance, insurance & real estate"
+NDSN,Nordson Corporation,0000072331,0000072331,3569,Manufacturing
+ES,Eversource Energy,0000072741,0000072741,4911,Transportation & utilities
+XEL,Xcel Energy,0000072903,0000072903,4931,Transportation & utilities
+WFC,Wells Fargo,0000072971,0000072971,6021,"Finance, insurance & real estate"
+NTRS,Northern Trust,0000073124,0000073124,6022,"Finance, insurance & real estate"
+NUE,Nucor,0000073309,0000073309,3312,Manufacturing
+UDR,"UDR, Inc.",0000074208,0000074208,6798,"Finance, insurance & real estate"
+PCAR,Paccar,0000075362,0000075362,3711,Manufacturing
+PKG,Packaging Corporation of America,0000075677,0000075677,2650,Manufacturing
+PH,Parker Hannifin,0000076334,0000076334,3490,Manufacturing
+PNR,Pentair,0000077360,0000077360,3550,Manufacturing
+PEP,PepsiCo,0000077476,0000077476,2080,Manufacturing
+PFE,Pfizer,0000078003,0000078003,2834,Manufacturing
+BRO,Brown & Brown,0000079282,0000079282,6411,"Finance, insurance & real estate"
+PPG,PPG Industries,0000079879,0000079879,2851,Manufacturing
+PG,Procter & Gamble,0000080424,0000080424,2840,Manufacturing
+PGR,Progressive Corporation,0000080661,0000080661,6331,"Finance, insurance & real estate"
+ROL,"Rollins, Inc.",0000084839,0000084839,7340,Services
+TRV,Travelers Companies (The),0000086312,0000086312,6331,"Finance, insurance & real estate"
+SLB,Schlumberger,0000087347,0000087347,1389,Mining
+SHW,Sherwin-Williams,0000089800,0000089800,5200,Retail trade
+AOS,A. O. Smith,0000091142,0000091142,3630,Manufacturing
+SJM,J.M. Smucker Company (The),0000091419,0000091419,2033,Manufacturing
+SNA,Snap-on,0000091440,0000091440,3420,Manufacturing
+KEY,KeyCorp,0000091576,0000091576,6021,"Finance, insurance & real estate"
+SO,Southern Company,0000092122,0000092122,4911,Transportation & utilities
+TFC,Truist Financial,0000092230,0000092230,6021,"Finance, insurance & real estate"
+LUV,Southwest Airlines,0000092380,0000092380,4512,Transportation & utilities
+CVX,Chevron Corporation,0000093410,0000093410,2911,Manufacturing
+SWK,Stanley Black & Decker,0000093556,0000093556,3420,Manufacturing
+STT,State Street Corporation,0000093751,0000093751,6022,"Finance, insurance & real estate"
+SYY,Sysco,0000096021,0000096021,5140,Wholesale trade
+TER,Teradyne,0000097210,0000097210,3825,Manufacturing
+TXN,Texas Instruments,0000097476,0000097476,3674,Manufacturing
+TMO,Thermo Fisher Scientific,0000097745,0000097745,3829,Manufacturing
+TSN,Tyson Foods,0000100493,0000100493,2015,Manufacturing
+UAL,United Airlines Holdings,0000100517,0000100517,4512,Transportation & utilities
+UNP,Union Pacific Corporation,0000100885,0000100885,4011,Transportation & utilities
+RTX,RTX Corporation,0000101829,0000101829,3724,Manufacturing
+WMT,Walmart,0000104169,0000104169,5331,Retail trade
+EME,Emcor,0000105634,0000105634,1731,Construction
+WST,West Pharmaceutical Services,0000105770,0000105770,3841,Manufacturing
+WDC,Western Digital,0000106040,0000106040,3572,Manufacturing
+WY,Weyerhaeuser,0000106535,0000106535,6798,"Finance, insurance & real estate"
+WMB,Williams Companies,0000107263,0000107263,4922,Transportation & utilities
+TJX,TJX Companies,0000109198,0000109198,5651,Retail trade
+JNJ,Johnson & Johnson,0000200406,0000200406,2834,Manufacturing
+LHX,L3Harris,0000202058,0000202058,3812,Manufacturing
+TXT,Textron,0000217346,0000217346,3720,Manufacturing
+GWW,W. W. Grainger,0000277135,0000277135,5000,Wholesale trade
+CSX,CSX Corporation,0000277948,0000277948,4011,Transportation & utilities
+MRK,Merck & Co.,0000310158,0000310158,2834,Manufacturing
+SYK,Stryker Corporation,0000310764,0000310764,3841,Manufacturing
+DHR,Danaher Corporation,0000313616,0000313616,3823,Manufacturing
+CHD,Church & Dwight,0000313927,0000313927,2840,Manufacturing
+DE,Deere & Company,0000315189,0000315189,3523,Manufacturing
+AON,Aon plc,0000315293,0000315293,6411,"Finance, insurance & real estate"
+SCHW,Charles Schwab Corporation,0000316709,0000316709,6211,"Finance, insurance & real estate"
+AMGN,Amgen,0000318154,0000318154,2836,Manufacturing
+KLAC,KLA Corporation,0000319201,0000319201,3827,Manufacturing
+NKE,"Nike, Inc.",0000320187,0000320187,3021,Manufacturing
+AAPL,Apple Inc.,0000320193,0000320193,3571,Manufacturing
+GL,Globe Life,0000320335,0000320335,6311,"Finance, insurance & real estate"
+LNT,Alliant Energy,0000352541,0000352541,4931,Transportation & utilities
+UHS,Universal Health Services,0000352915,0000352915,8062,Services
+AJG,Arthur J. Gallagher & Co.,0000354190,0000354190,6411,"Finance, insurance & real estate"
+HD,Home Depot (The),0000354950,0000354950,5211,Retail trade
+NSC,Norfolk Southern,0000702165,0000702165,4011,Transportation & utilities
+LRCX,Lam Research,0000707549,0000707549,3559,Manufacturing
+COO,Cooper Companies (The),0000711404,0000711404,3851,Manufacturing
+PNC,PNC Financial Services,0000713676,0000713676,6021,"Finance, insurance & real estate"
+D,Dominion Energy,0000715957,0000715957,4911,Transportation & utilities
+WSM,"Williams-Sonoma, Inc.",0000719955,0000719955,5700,Retail trade
+RJF,Raymond James Financial,0000720005,0000720005,6211,"Finance, insurance & real estate"
+CAH,Cardinal Health,0000721371,0000721371,5122,Wholesale trade
+MU,Micron Technology,0000723125,0000723125,3674,Manufacturing
+CTAS,Cintas,0000723254,0000723254,2320,Manufacturing
+PAYX,Paychex,0000723531,0000723531,8700,Services
+O,Realty Income,0000726728,0000726728,6798,"Finance, insurance & real estate"
+CASY,Casey's,0000726958,0000726958,5500,Retail trade
+JBHT,J.B. Hunt,0000728535,0000728535,4213,Transportation & utilities
+UNH,UnitedHealth Group,0000731766,0000731766,6324,"Finance, insurance & real estate"
+ATO,Atmos Energy,0000731802,0000731802,4924,Transportation & utilities
+VZ,Verizon,0000732712,0000732712,4813,Transportation & utilities
+T,AT&T,0000732717,0000732717,4813,Transportation & utilities
+VTR,Ventas,0000740260,0000740260,6798,"Finance, insurance & real estate"
+ROST,Ross Stores,0000745732,0000745732,5651,Retail trade
+EXPD,Expeditors International,0000746515,0000746515,4731,Transportation & utilities
+IT,Gartner,0000749251,0000749251,8741,Services
+NEE,NextEra Energy,0000753308,0000753308,4911,Transportation & utilities
+CFG,Citizens Financial Group,0000759944,0000759944,6022,"Finance, insurance & real estate"
+MO,Altria,0000764180,0000764180,2111,Manufacturing
+BBY,Best Buy,0000764478,0000764478,5731,Retail trade
+PNW,Pinnacle West Capital,0000764622,0000764622,4911,Transportation & utilities
+DOC,Healthpeak Properties,0000765880,0000765880,6798,"Finance, insurance & real estate"
+WELL,Welltower,0000766704,0000766704,6798,"Finance, insurance & real estate"
+ADSK,Autodesk,0000769397,0000769397,7372,Services
+HON,Honeywell Technologies,0000773840,0000773840,3724,Manufacturing
+JKHY,Jack Henry & Associates,0000779152,0000779152,7373,Services
+WEC,WEC Energy Group,0000783325,0000783325,4931,Transportation & utilities
+PEG,Public Service Enterprise Group,0000788784,0000788784,4931,Transportation & utilities
+MSFT,Microsoft,0000789019,0000789019,7372,Services
+MGM,MGM Resorts,0000789570,0000789570,7011,Services
+ADBE,Adobe Inc.,0000796343,0000796343,7372,Services
+OXY,Occidental Petroleum,0000797468,0000797468,1311,Mining
+FISV,Fiserv,0000798354,0000798354,7389,Services
+QCOM,Qualcomm,0000804328,0000804328,3663,Manufacturing
+CMS,CMS Energy,0000811156,0000811156,4931,Transportation & utilities
+CDNS,Cadence Design Systems,0000813672,0000813672,7372,Services
+FICO,Fair Isaac,0000814547,0000814547,7389,Services
+CCL,Carnival Corporation,0000815097,0000815097,4400,Transportation & utilities
+FAST,Fastenal,0000815556,0000815556,5200,Retail trade
+AMP,Ameriprise Financial,0000820027,0000820027,6282,"Finance, insurance & real estate"
+APH,Amphenol,0000820313,0000820313,3678,Manufacturing
+COHR,Coherent Corp.,0000820318,0000820318,3827,Manufacturing
+EOG,EOG Resources,0000821189,0000821189,1311,Mining
+PHM,PulteGroup,0000822416,0000822416,1531,Construction
+WM,Waste Management,0000823768,0000823768,4953,Transportation & utilities
+EIX,Edison International,0000827052,0000827052,4911,Transportation & utilities
+MCHP,Microchip Technology,0000827054,0000827054,3674,Manufacturing
+SBUX,Starbucks,0000829224,0000829224,5810,Retail trade
+C,Citigroup,0000831001,0000831001,6021,"Finance, insurance & real estate"
+FCX,Freeport-McMoRan,0000831259,0000831259,1000,Mining
+IEX,IDEX Corporation,0000832101,0000832101,3561,Manufacturing
+JCI,Johnson Controls,0000833444,0000833444,3585,Manufacturing
+TECH,Bio-Techne,0000842023,0000842023,2836,Manufacturing
+CRH,CRH plc,0000849395,0000849395,3241,Manufacturing
+GEN,Gen Digital,0000849399,0000849399,7372,Services
+PTC,PTC Inc.,0000857005,0000857005,7372,Services
+CSCO,Cisco,0000858877,0000858877,3576,Manufacturing
+HCA,HCA Healthcare,0000860730,0000860730,8062,Services
+TYL,Tyler Technologies,0000860731,0000860731,7372,Services
+TRMB,Trimble Inc.,0000864749,0000864749,3829,Manufacturing
+MNST,Monster Beverage,0000865752,0000865752,2086,Manufacturing
+FLEX,Flex Ltd.,0000866374,0000866374,3672,Manufacturing
+AZO,AutoZone,0000866787,0000866787,5531,Retail trade
+REGN,Regeneron Pharmaceuticals,0000872589,0000872589,2834,Manufacturing
+IDXX,Idexx Laboratories,0000874716,0000874716,2835,Manufacturing
+AES,AES Corporation,0000874761,0000874761,4991,Transportation & utilities
+HIG,Hartford (The),0000874766,0000874766,6331,"Finance, insurance & real estate"
+BIIB,Biogen,0000875045,0000875045,2836,Manufacturing
+VRTX,Vertex Pharmaceuticals,0000875320,0000875320,2834,Manufacturing
+ZBRA,Zebra Technologies,0000877212,0000877212,3560,Manufacturing
+ODFL,Old Dominion,0000878927,0000878927,4213,Transportation & utilities
+KIM,Kimco Realty,0000879101,0000879101,6798,"Finance, insurance & real estate"
+INCY,Incyte,0000879169,0000879169,8731,Services
+GILD,Gilead Sciences,0000882095,0000882095,2836,Manufacturing
+DHI,D. R. Horton,0000882184,0000882184,1531,Construction
+ROP,Roper Technologies,0000882835,0000882835,3823,Manufacturing
+SNPS,Synopsys,0000883241,0000883241,7372,Services
+RCL,Royal Caribbean Group,0000884887,0000884887,4400,Transportation & utilities
+BSX,Boston Scientific,0000885725,0000885725,3841,Manufacturing
+GS,Goldman Sachs,0000886982,0000886982,6211,"Finance, insurance & real estate"
+EXE,Expand Energy,0000895126,0000895126,1311,Mining
+MS,Morgan Stanley,0000895421,0000895421,6211,"Finance, insurance & real estate"
+CB,Chubb Limited,0000896159,0000896159,6331,"Finance, insurance & real estate"
+INTU,Intuit,0000896878,0000896878,7372,Services
+ORLY,O'Reilly Automotive,0000898173,0000898173,5531,Retail trade
+JBL,Jabil,0000898293,0000898293,3672,Manufacturing
+ALL,Allstate,0000899051,0000899051,6331,"Finance, insurance & real estate"
+CPRT,Copart,0000900075,0000900075,5500,Retail trade
+VMRK,Vivmark Residential,0000906107,0000906107,6798,"Finance, insurance & real estate"
+NVR,"NVR, Inc.",0000906163,0000906163,1531,Construction
+CPT,Camden Property Trust,0000906345,0000906345,6798,"Finance, insurance & real estate"
+COST,Costco,0000909832,0000909832,5331,Retail trade
+DECK,Deckers Brands,0000910521,0000910521,3021,Manufacturing
+REG,Regency Centers,0000910606,0000910606,6798,"Finance, insurance & real estate"
+MAA,Mid-America Apartment Communities,0000912595,0000912595,6798,"Finance, insurance & real estate"
+IVZ,Invesco,0000914208,0000914208,6282,"Finance, insurance & real estate"
+ALB,Albemarle Corporation,0000915913,0000915913,2821,Manufacturing
+MLM,Martin Marietta Materials,0000916076,0000916076,1400,Mining
+TSCO,Tractor Supply,0000916365,0000916365,5200,Retail trade
+LH,Labcorp,0000920148,0000920148,8071,Services
+ESS,Essex Property Trust,0000920522,0000920522,6798,"Finance, insurance & real estate"
+LEN,Lennar,0000920760,0000920760,1520,Construction
+PPL,PPL Corporation,0000922224,0000922224,4911,Transportation & utilities
+ERIE,Erie Indemnity,0000922621,0000922621,6411,"Finance, insurance & real estate"
+DVA,DaVita,0000927066,0000927066,8090,Services
+COF,Capital One,0000927628,0000927628,6021,"Finance, insurance & real estate"
+MCK,McKesson,0000927653,0000927653,5122,Wholesale trade
+DLTR,Dollar Tree,0000935703,0000935703,5331,Retail trade
+DTE,DTE Energy,0000936340,0000936340,4911,Transportation & utilities
+CIEN,Ciena,0000936395,0000936395,3661,Manufacturing
+LMT,Lockheed Martin,0000936468,0000936468,3760,Manufacturing
+DRI,Darden Restaurants,0000940944,0000940944,5812,Retail trade
+WAB,Wabtec,0000943452,0000943452,3743,Manufacturing
+RMD,ResMed,0000943819,0000943819,3841,Manufacturing
+TTWO,Take-Two Interactive,0000946581,0000946581,7372,Services
+ACGL,Arch Capital Group,0000947484,0000947484,6331,"Finance, insurance & real estate"
+HSIC,Henry Schein,0001000228,0001000228,5047,Wholesale trade
+WAT,Waters Corporation,0001000697,0001000697,3826,Manufacturing
+EL,Estée Lauder Companies (The),0001001250,0001001250,2844,Manufacturing
+NTAP,NetApp,0001002047,0001002047,3572,Manufacturing
+AEE,Ameren,0001002910,0001002910,4931,Transportation & utilities
+PCG,PG&E Corporation,0001004980,0001004980,4931,Transportation & utilities
+FDS,FactSet,0001013237,0001013237,7370,Services
+NRG,NRG Energy,0001013871,0001013871,4911,Transportation & utilities
+VRSN,Verisign,0001014473,0001014473,7371,Services
+AMZN,Amazon,0001018724,0001018724,5961,Retail trade
+IRM,Iron Mountain,0001020569,0001020569,6798,"Finance, insurance & real estate"
+DGX,Quest Diagnostics,0001022079,0001022079,8071,Services
+STLD,Steel Dynamics,0001022671,0001022671,3312,Manufacturing
+ROK,Rockwell Automation,0001024478,0001024478,3829,Manufacturing
+FE,FirstEnergy,0001031296,0001031296,4911,Transportation & utilities
+SRE,Sempra,0001032208,0001032208,4932,Transportation & utilities
+SBAC,SBA Communications,0001034054,0001034054,6798,"Finance, insurance & real estate"
+VLO,Valero Energy,0001035002,0001035002,2911,Manufacturing
+ISRG,Intuitive Surgical,0001035267,0001035267,3842,Manufacturing
+ARE,Alexandria Real Estate Equities,0001035443,0001035443,6798,"Finance, insurance & real estate"
+FIX,Comfort Systems USA,0001035983,0001035983,1731,Construction
+RL,Ralph Lauren Corporation,0001037038,0001037038,2320,Manufacturing
+BXP,"BXP, Inc.",0001037540,0001037540,6798,"Finance, insurance & real estate"
+MTD,Mettler Toledo,0001037646,0001037646,3826,Manufacturing
+AME,Ametek,0001037868,0001037868,3823,Manufacturing
+OKE,Oneok,0001039684,0001039684,4923,Transportation & utilities
+YUM,Yum! Brands,0001041061,0001041061,5812,Retail trade
+CHRW,C.H. Robinson,0001043277,0001043277,4731,Transportation & utilities
+PLD,Prologis,0001045609,0001045609,6798,"Finance, insurance & real estate"
+NVDA,Nvidia,0001045810,0001045810,3674,Manufacturing
+ED,Consolidated Edison,0001047862,0001047862,4931,Transportation & utilities
+MAR,Marriott International,0001048286,0001048286,7011,Services
+FFIV,"F5, Inc.",0001048695,0001048695,3576,Manufacturing
+FDX,FedEx,0001048911,0001048911,4513,Transportation & utilities
+PWR,Quanta Services,0001050915,0001050915,1731,Construction
+CCI,Crown Castle,0001051470,0001051470,6798,"Finance, insurance & real estate"
+AMT,American Tower,0001053507,0001053507,6798,"Finance, insurance & real estate"
+CSGP,CoStar Group,0001057352,0001057352,7389,Services
+CMG,Chipotle Mexican Grill,0001058090,0001058090,5812,Retail trade
+CTSH,Cognizant,0001058290,0001058290,7371,Services
+MCO,Moody's Corporation,0001059556,0001059556,7320,Services
+RSG,Republic Services,0001060391,0001060391,4953,Transportation & utilities
+SPG,Simon Property Group,0001063761,0001063761,6798,"Finance, insurance & real estate"
+EBAY,eBay Inc.,0001065088,0001065088,7389,Services
+NFLX,Netflix,0001065280,0001065280,7841,Services
+URI,United Rentals,0001067701,0001067701,7359,Services
+BRK.B,Berkshire Hathaway,0001067983,0001067983,6331,"Finance, insurance & real estate"
+AXON,Axon Enterprise,0001069183,0001069183,3480,Manufacturing
+LII,Lennox International,0001069202,0001069202,3585,Manufacturing
+HST,Host Hotels & Resorts,0001070750,0001070750,6798,"Finance, insurance & real estate"
+CNC,Centene Corporation,0001071739,0001071739,6324,"Finance, insurance & real estate"
+BKNG,Booking Holdings,0001075531,0001075531,4700,Transportation & utilities
+AKAM,Akamai Technologies,0001086222,0001086222,7389,Services
+DVN,Devon Energy,0001090012,0001090012,1311,Mining
+UPS,United Parcel Service,0001090727,0001090727,4210,Transportation & utilities
+A,Agilent Technologies,0001090872,0001090872,3826,Manufacturing
+CHTR,Charter Communications,0001091667,0001091667,4841,Transportation & utilities
+DXCM,Dexcom,0001093557,0001093557,3841,Manufacturing
+TDY,Teledyne Technologies,0001094285,0001094285,3812,Manufacturing
+EG,Everest Group,0001095073,0001095073,6331,"Finance, insurance & real estate"
+ALGN,Align Technology,0001097149,0001097149,3842,Manufacturing
+ON,ON Semiconductor,0001097864,0001097864,3674,Manufacturing
+MET,MetLife,0001099219,0001099219,6311,"Finance, insurance & real estate"
+EW,Edwards Lifesciences,0001099800,0001099800,3842,Manufacturing
+CRL,Charles River Laboratories,0001100682,0001100682,8731,Services
+EQIX,Equinix,0001101239,0001101239,6798,"Finance, insurance & real estate"
+MDLZ,Mondelez International,0001103982,0001103982,2000,Manufacturing
+CRM,Salesforce,0001108524,0001108524,7372,Services
+EXC,Exelon,0001109357,0001109357,4931,Transportation & utilities
+ILMN,"Illumina, Inc.",0001110803,0001110803,3826,Manufacturing
+NI,NiSource,0001111711,0001111711,4931,Transportation & utilities
+TROW,T. Rowe Price,0001113169,0001113169,6282,"Finance, insurance & real estate"
+TPR,"Tapestry, Inc.",0001116132,0001116132,3100,Manufacturing
+NDAQ,"Nasdaq, Inc.",0001120193,0001120193,6200,"Finance, insurance & real estate"
+GRMN,Garmin,0001121788,0001121788,3812,Manufacturing
+GPN,Global Payments,0001123360,0001123360,7389,Services
+PFG,Principal Financial Group,0001126328,0001126328,6321,"Finance, insurance & real estate"
+CNP,CenterPoint Energy,0001130310,0001130310,4911,Transportation & utilities
+NOC,Northrop Grumman,0001133421,0001133421,3812,Manufacturing
+ZBH,Zimmer Biomet,0001136869,0001136869,3842,Manufacturing
+FIS,Fidelity National Information Services,0001136893,0001136893,7389,Services
+PRU,Prudential Financial,0001137774,0001137774,6311,"Finance, insurance & real estate"
+STX,Seagate Technology,0001137789,0001137789,3572,Manufacturing
+CBRE,CBRE Group,0001138118,0001138118,6500,"Finance, insurance & real estate"
+WTW,Willis Towers Watson,0001140536,0001140536,6411,"Finance, insurance & real estate"
+COR,Cencora,0001140859,0001140859,5122,Wholesale trade
+MA,Mastercard,0001141391,0001141391,7389,Services
+PODD,Insulet Corporation,0001145197,0001145197,3841,Manufacturing
+ELV,Elevance Health,0001156039,0001156039,6324,"Finance, insurance & real estate"
+CME,CME Group,0001156375,0001156375,6200,"Finance, insurance & real estate"
+COP,ConocoPhillips,0001163165,0001163165,2911,Manufacturing
+NEM,Newmont,0001164727,0001164727,1040,Mining
+CMCSA,Comcast,0001166691,0001166691,4841,Transportation & utilities
+WYNN,Wynn Resorts,0001174922,0001174922,7011,Services
+CPAY,Corpay,0001175454,0001175454,7389,Services
+ARES,Ares Management,0001176948,0001176948,6282,"Finance, insurance & real estate"
+TDG,TransDigm Group,0001260221,0001260221,3728,Manufacturing
+FTNT,Fortinet,0001262039,0001262039,3577,Manufacturing
+AIZ,Assurant,0001267238,0001267238,6399,"Finance, insurance & real estate"
+FSLR,First Solar,0001274494,0001274494,3674,Manufacturing
+MPWR,Monolithic Power Systems,0001280452,0001280452,3674,Manufacturing
+RF,Regions Financial Corporation,0001281761,0001281761,6021,"Finance, insurance & real estate"
+TMUS,T-Mobile US,0001283699,0001283699,4812,Transportation & utilities
+MOS,Mosaic Company (The),0001285785,0001285785,2870,Manufacturing
+DPZ,Domino's,0001286681,0001286681,5140,Wholesale trade
+EXR,Extra Space Storage,0001289490,0001289490,6798,"Finance, insurance & real estate"
+DLR,Digital Realty,0001297996,0001297996,6798,"Finance, insurance & real estate"
+LVS,Las Vegas Sands,0001300514,0001300514,7011,Services
+TSLA,"Tesla, Inc.",0001318605,0001318605,3711,Manufacturing
+PLTR,Palantir Technologies,0001321655,0001321655,7372,Services
+CF,CF Industries,0001324404,0001324404,2870,Manufacturing
+EXPE,Expedia Group,0001324424,0001324424,4700,Transportation & utilities
+DUK,Duke Energy,0001326160,0001326160,4931,Transportation & utilities
+META,Meta Platforms,0001326801,0001326801,7370,Services
+PANW,Palo Alto Networks,0001327567,0001327567,3577,Manufacturing
+WDAY,"Workday, Inc.",0001327811,0001327811,7374,Services
+LYV,Live Nation Entertainment,0001335258,0001335258,7900,Services
+LDOS,Leidos,0001336920,0001336920,7373,Services
+ORCL,Oracle Corporation,0001341439,0001341439,7372,Services
+NOW,ServiceNow,0001373715,0001373715,7372,Services
+CBOE,Cboe Global Markets,0001374310,0001374310,6200,"Finance, insurance & real estate"
+SMCI,Supermicro,0001375365,0001375365,3571,Manufacturing
+IBKR,Interactive Brokers,0001381197,0001381197,6211,"Finance, insurance & real estate"
+BR,Broadridge Financial Solutions,0001383312,0001383312,7389,Services
+TEL,TE Connectivity,0001385157,0001385157,5065,Wholesale trade
+TRGP,Targa Resources,0001389170,0001389170,4922,Transportation & utilities
+BNY,BNY Mellon,0001390777,0001390777,6022,"Finance, insurance & real estate"
+VEEV,Veeva Systems,0001393052,0001393052,7372,Services
+PSA,Public Storage,0001393311,0001393311,6798,"Finance, insurance & real estate"
+BX,Blackstone Inc.,0001393818,0001393818,6282,"Finance, insurance & real estate"
+VMC,Vulcan Materials Company,0001396009,0001396009,1400,Mining
+LULU,Lululemon Athletica,0001397187,0001397187,2300,Manufacturing
+CDW,CDW Corporation,0001402057,0001402057,5961,Retail trade
+V,Visa Inc.,0001403161,0001403161,7389,Services
+ULTA,Ulta Beauty,0001403568,0001403568,5990,Retail trade
+KKR,KKR & Co.,0001404912,0001404912,6282,"Finance, insurance & real estate"
+MSCI,MSCI,0001408198,0001408198,7389,Services
+AWK,American Water Works,0001410636,0001410636,4941,Transportation & utilities
+PM,Philip Morris International,0001413329,0001413329,2111,Manufacturing
+NXPI,NXP Semiconductors,0001413447,0001413447,3674,Manufacturing
+ECHO,EchoStar,0001415404,0001415404,4899,Transportation & utilities
+KDP,Keurig Dr Pepper,0001418135,0001418135,2080,Manufacturing
+VRSK,Verisk Analytics,0001442145,0001442145,7374,Services
+TWLO,Twilio,0001447669,0001447669,7372,Services
+TT,Trane Technologies,0001466258,0001466258,3822,Manufacturing
+ACN,Accenture,0001467373,0001467373,7389,Services
+GM,General Motors,0001467858,0001467858,3711,Manufacturing
+P,Everpure,0001474432,0001474432,3572,Manufacturing
+GNRC,Generac,0001474735,0001474735,3621,Manufacturing
+IQV,IQVIA,0001478242,0001478242,8731,Services
+LYB,LyondellBasell,0001489393,0001489393,2860,Manufacturing
+HII,Huntington Ingalls Industries,0001501585,0001501585,3730,Manufacturing
+KMI,Kinder Morgan,0001506307,0001506307,4922,Transportation & utilities
+MPC,Marathon Petroleum,0001510295,0001510295,2911,Manufacturing
+XYZ,"Block, Inc.",0001512673,0001512673,7372,Services
+NCLH,Norwegian Cruise Line Holdings,0001513761,0001513761,4400,Transportation & utilities
+APTV,Aptiv,0001521332,0001521332,3714,Manufacturing
+XYL,Xylem Inc.,0001524472,0001524472,3561,Manufacturing
+PSX,Phillips 66,0001534701,0001534701,2911,Manufacturing
+CRWD,CrowdStrike,0001535527,0001535527,7372,Services
+FANG,Diamondback Energy,0001539838,0001539838,1311,Mining
+UBER,Uber,0001543151,0001543151,7389,Services
+ABBV,AbbVie,0001551152,0001551152,2834,Manufacturing
+ETN,Eaton Corporation,0001551182,0001551182,3590,Manufacturing
+ZTS,Zoetis,0001555280,0001555280,2834,Manufacturing
+ABNB,Airbnb,0001559720,0001559720,7340,Services
+DDOG,Datadog,0001561550,0001561550,7372,Services
+NWS,News Corp (Class B),0001564708,0001564708,2711,Manufacturing
+ICE,Intercontinental Exchange,0001571949,0001571949,6200,"Finance, insurance & real estate"
+DELL,Dell Technologies,0001571996,0001571996,3571,Manufacturing
+ALLE,Allegion,0001579241,0001579241,7381,Services
+HLT,Hilton Worldwide,0001585689,0001585689,7011,Services
+ANET,Arista Networks,0001596532,0001596532,3576,Manufacturing
+KEYS,Keysight Technologies,0001601046,0001601046,3823,Manufacturing
+SYF,Synchrony Financial,0001601712,0001601712,6199,"Finance, insurance & real estate"
+GDDY,GoDaddy,0001609711,0001609711,7373,Services
+MDT,Medtronic,0001613103,0001613103,3845,Manufacturing
+PYPL,PayPal,0001633917,0001633917,7389,Services
+LITE,Lumentum,0001633978,0001633978,3669,Manufacturing
+KHC,Kraft Heinz,0001637459,0001637459,2030,Manufacturing
+HPE,Hewlett Packard Enterprise,0001645590,0001645590,3570,Manufacturing
+GOOG,Alphabet Inc. (Class C),0001652044,0001652044,7370,Services
+FTV,Fortive,0001659166,0001659166,3823,Manufacturing
+BE,Bloom Energy,0001664703,0001664703,3620,Manufacturing
+DD,DuPont,0001666700,0001666700,2821,Manufacturing
+VRT,Vertiv,0001674101,0001674101,3679,Manufacturing
+COIN,Coinbase,0001679788,0001679788,6199,"Finance, insurance & real estate"
+MRNA,Moderna,0001682852,0001682852,2836,Manufacturing
+INVH,Invitation Homes,0001687229,0001687229,6510,"Finance, insurance & real estate"
+CVNA,Carvana,0001690820,0001690820,5500,Retail trade
+VST,Vistra Corp.,0001692819,0001692819,4911,Transportation & utilities
+IR,Ingersoll Rand,0001699150,0001699150,3560,Manufacturing
+BKR,Baker Hughes,0001701605,0001701605,3533,Manufacturing
+VICI,Vici Properties,0001705696,0001705696,6798,"Finance, insurance & real estate"
+LIN,Linde plc,0001707925,0001707925,2810,Manufacturing
+EVRG,Evergy,0001711269,0001711269,4931,Transportation & utilities
+RDDT,Reddit,0001713445,0001713445,7374,Services
+AVGO,Broadcom,0001730168,0001730168,3674,Manufacturing
+CI,Cigna,0001739940,0001739940,6324,"Finance, insurance & real estate"
+DIS,Walt Disney Company (The),0001744489,0001744489,7990,Services
+AMCR,Amcor,0001748790,0001748790,3990,Manufacturing
+APP,AppLovin,0001751008,0001751008,7370,Services
+DOW,Dow Inc.,0001751788,0001751788,2821,Manufacturing
+FOX,Fox Corporation (Class B),0001754301,0001754301,4833,Transportation & utilities
+STE,Steris,0001757898,0001757898,3842,Manufacturing
+OTIS,Otis Worldwide,0001781335,0001781335,3600,Manufacturing
+CARR,Carrier Global,0001783180,0001783180,3585,Manufacturing
+HOOD,Robinhood Markets,0001783879,0001783879,6211,"Finance, insurance & real estate"
+VTRS,Viatris,0001792044,0001792044,2834,Manufacturing
+DASH,DoorDash,0001792789,0001792789,7389,Services
+TPL,Texas Pacific Land Corporation,0001811074,0001811074,6792,"Finance, insurance & real estate"
+MRVL,Marvell Technology,0001835632,0001835632,3674,Manufacturing
+APA,APA Corporation,0001841666,0001841666,1311,Mining
+APO,Apollo Global Management,0001858681,0001858681,6282,"Finance, insurance & real estate"
+CEG,Constellation Energy,0001868275,0001868275,4911,Transportation & utilities
+GEHC,GE HealthCare,0001932393,0001932393,3844,Manufacturing
+KVUE,Kenvue,0001944048,0001944048,2844,Manufacturing
+SOLV,Solventum,0001964738,0001964738,3841,Manufacturing
+VLTO,Veralto,0001967680,0001967680,3825,Manufacturing
+TKO,TKO Group Holdings,0001973266,0001973266,7900,Services
+GEV,GE Vernova,0001996810,0001996810,3600,Manufacturing
+BG,Bunge Global,0001996862,0001996862,2070,Manufacturing
+SW,Smurfit Westrock,0002005951,0002005951,2650,Manufacturing
+FERG,Ferguson Enterprises,0002011641,0002011641,5070,Wholesale trade
+BLK,BlackRock,0002012383,0002012383,6211,"Finance, insurance & real estate"
+SNDK,Sandisk,0002023554,0002023554,3572,Manufacturing
+SKYD,Skydance,0002041610,0002041610,4833,Transportation & utilities
+Q,Qnity Electronics,0002058873,0002058873,3674,Manufacturing
+FDXF,FedEx Freight,0002082247,0002082247,4513,Transportation & utilities
+HONA,Honeywell Aerospace,0002089271,0002089271,3724,Manufacturing
+XOM,ExxonMobil,0002115436,0000034088,2911,Manufacturing
+VYLR,Vylor,0002128626,0002128626,100,Agriculture

@@ -1,0 +1,4 @@
+ticker,accession,submissions_period_end,verified_cover_period_end,fiscal_year,decision,source_url
+HSIC,0001000228-18-000012,2018-02-21,2017-12-30,2017,Excluded as FY2017; original submissions reportDate differs from primary cover,https://www.sec.gov/Archives/edgar/data/1000228/000100022818000012/the10k_2017.htm
+NOW,0001373715-18-000058,2018-02-28,2017-12-31,2017,Excluded as FY2017; original submissions reportDate differs from primary cover,https://www.sec.gov/Archives/edgar/data/1373715/000137371518000058/now-20171231x10k.htm
+APTV,0001521332-18-000013,2018-02-05,2017-12-31,2017,Excluded as FY2017; original submissions reportDate differs from primary cover,https://www.sec.gov/Archives/edgar/data/1521332/000152133218000013/aptv1231201710k.htm

@@ -1,0 +1,15 @@
+outcome,model,status,n_available,n_obs,n_firms,message
+next_revenue_growth,baseline,estimated,143,143,20,
+next_revenue_growth,interaction,estimated,143,143,20,post2022
+next_revenue_growth,log_ai,estimated,143,143,20,
+next_revenue_growth,firm_fe,estimated,143,143,20,
+next_revenue_growth,firm_fe_interaction,estimated,143,143,20,post2022
+next_revenue_growth,winsorized,estimated,143,143,20,
+next_revenue_growth,winsorized_interaction,estimated,143,143,20,post2022
+excess_return_12m,baseline,estimated,143,143,20,
+excess_return_12m,interaction,estimated,143,143,20,post2022
+excess_return_12m,log_ai,estimated,143,143,20,
+excess_return_12m,firm_fe,estimated,143,143,20,
+excess_return_12m,firm_fe_interaction,estimated,143,143,20,post2022
+excess_return_12m,winsorized,estimated,143,143,20,
+excess_return_12m,winsorized_interaction,estimated,143,143,20,post2022

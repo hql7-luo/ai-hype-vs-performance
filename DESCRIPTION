@@ -1,0 +1,11 @@
+Package: aihypevsperformance
+Title: AI Talk vs. AI Results
+Version: 1.0.0
+Authors@R: person("Haoqi", "Luo", role = c("aut", "cre"), email = "haoqi.luo23@hoosac.org")
+Description: Independent observational study of AI disclosure in SEC annual reports,
+    subsequent revenue growth, and benchmark-relative stock returns.
+License: MIT
+Encoding: UTF-8
+Imports: tidyverse, tidyquant, fixest, httr2, jsonlite, rvest, xml2, shiny,
+    knitr, rmarkdown, lubridate, scales
+Suggests: testthat, renv

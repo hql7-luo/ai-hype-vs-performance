@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+data/raw/*
+!data/raw/README.md
+renv/library/
+renv/staging/
+.quarto/
+report_files/
