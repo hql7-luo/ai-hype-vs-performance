@@ -2,7 +2,7 @@
 
 **Independent project · Haoqi Luo · R / SEC EDGAR / panel regression**
 
-**Status:** local project; not published or deployed.
+**Status:** published repository at [hql7-luo/ai-hype-vs-performance](https://github.com/hql7-luo/ai-hype-vs-performance). The Shiny application runs locally; a hosted Shiny deployment is not claimed.
 
 Do companies that mention AI more in their annual reports later grow faster or outperform the market? Did that association change after ChatGPT's November 2022 release?
 
